@@ -1,0 +1,33 @@
+_repo: Nooks-and-Corners-of-Old-England_39685
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fea, Allan
+    alias: Hatter, M. A. D.
+    birthdate: 1860
+    deathdate: 1956
+    gutenberg_agent_id: '5288'
+    url: http://www.gutenberg.org/2009/agents/5288
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'England -- Description and travel'
+tableOfContents: Nooks in Huntingdonshire and North Northants -- Some Suffolk nooks
+  -- Nooks in Norfolk -- Nooks in Warwickshire and Borderland -- Some nooks in Worcestershire
+  and Gloucestershire -- Nooks in northern Wiltshire -- Eastern and southern Somerset
+  -- In western Somerset -- In Devon and Dorset -- Here and there in Salop and Staffordshire
+  -- In northern Derbyshire -- Nooks in Yorkshire.
+title: Nooks and Corners of Old England
+url: http://www.gutenberg.org/ebooks/39685
